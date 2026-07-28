@@ -1,0 +1,97 @@
+GATE CSE 2027 Preparation Tracker Website Features
+(While making the Website plz don't add any mock / sample data , i'll connect the backend for data from mongoDB)
+================================================== 1. Dashboard (Home)
+================================================== - Days left until
+GATE 2027 - Overall Preparation % - Current Subject -
+Weekly Goal Progress - Monthly Goal Progress
+Current Study Streak - Revision Progress - Test Series Progress
+
+================================================== 2. Subject Tracker
+================================================== Track each subject: -
+Data Structures - Algorithms - Operating Systems - DBMS - Computer
+Networks - Computer Organization - Theory of Computation - Compiler
+Design - Digital Logic - Discrete Mathematics - Engineering
+Mathematics - Aptitude
+
+For every subject: - Progress % - Chapters Completed- Revision Count
+
+================================================== 3. Chapter Tracker
+track: - Lecture Completed - Notes Completed - PYQs Done - DPP
+Done - Revision Done - Formula Sheet Ready
+================================================== 4. Practice Tracker
+================================================== - Questions Solved -
+Correct - Wrong - Skipped - Accuracy - Time Taken - Average Time per
+Question
+
+================================================== 5. PYQ Tracker
+================================================== - Subject-wise -
+Year-wise - Completion Status - Marks - Accuracy - Time Taken
+
+================================================== 6.Test
+Series Tracker ==================================================
+Track: - Chapter Tests - Subject Tests - Full Length Tests
+
+Include graphs showing improvement.
+
+================================================== 8. Analytics
+================================================== Charts for: -
+Subject-wise Completion - Study Hours - Accuracy Trend - Test Scores -
+Revision Frequency - Weak Subject Graph - Daily Study Heatmap
+
+================================================== 9. Daily Planner
+================================================== - Hour-wise Study
+Schedule - Task Checkboxes
+
+================================================== 10. Calendar
+================================================== Show: - Study Days -
+Mock Tests - Revision Days - Missed Days - Holidays - GitHub-style
+Contribution Graph
+
+================================================== 11. Study Streak
+================================================== - Current Streak -
+Longest Streak - Monthly Streak
+
+Achievements: - Bronze - Silver - Gold - Diamond
+
+================================================== 12. Study Time
+Tracker ================================================== - Start
+Timer - Pause - Resume - Stop
+
+Statistics: - Daily Hours - Weekly Hours - Monthly Hours - Subject-wise
+Hours
+
+================================================== 17. Goals
+================================================== - Daily Goals -
+Weekly Goals - Monthly Goals
+
+Track: - Study Hours - Questions - Lectures - Revisions - Mock Tests
+
+================================================== 18. Marks Predictor
+================================================== Predict: - Expected
+Marks - AIR Range - Score Trend
+
+Based on: - Mock Scores - Accuracy - Previous Performance
+
+================================================== 22. GATE Syllabus
+Tracker ================================================== For every
+topic: - Checkbox - Progress Bar - Weightage - Difficulty - Priority
+================================================== 26. Mobile Responsive
+================================================== Responsive for: -
+Laptop - Tablet - Mobile
+
+================================================== 27. Dark Mode
+================================================== - Dark Theme - Light
+Theme - System Theme
+================================================== 30. Achievements
+================================================== Examples: - 100 Study
+Hours - 1000 Questions Solved - 30-Day Streak - All PYQs Completed -
+First Subject Completed
+================================================== Recommended Tech
+Stack ================================================== Frontend:
+Next.js + React + TypeScript Styling: Tailwind CSS + shadcn/ui Charts:
+Recharts 
+Database: MongoDB 
+State Management: Zustand 
+Animations: Framer Motion 
+Icons:Lucide React
+
